@@ -1,1 +1,1 @@
-# Rock-paper-scissor-project
+building simple rock-paper-scissor project
